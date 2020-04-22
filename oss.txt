@@ -1,8 +1,8 @@
 <?php 
-$kul[0]['kullanici']="baskan"; 
-$kul[0]['sifre']="gurbetel";
-$kul[1]['kullanici']="baskan"; 
-$kul[1]['sifre']="gurbetel"; 
+$kul[0]['kullanici']="aga1"; 
+$kul[0]['sifre']="aga2";
+$kul[1]['kullanici']="baskan1"; 
+$kul[1]['sifre']="baskan2"; 
 //Гњstteki KullanД±cД± adД± ve sifreyi cogaltabilirsiniz
 //Dogrulama 
 function authenticate() 
